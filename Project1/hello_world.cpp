@@ -1,9 +1,8 @@
 #include <iostream>
-using namespace std;
+#include "变量.h"
 
-//author is bathelor
-//built in 2025/11/30
 int main() {
-	std::cout << "Hello, World!" << std::endl;
-	return 0;
+    std::cout << "Hello, world!\n";
+    display(); // 调用目标函数
+    return 0;
 }

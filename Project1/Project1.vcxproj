@@ -131,6 +131,9 @@
     <ClCompile Include="hello_world.cpp" />
     <ClCompile Include="变量.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="变量.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
