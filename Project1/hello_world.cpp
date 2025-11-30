@@ -16,5 +16,6 @@ int main() {
     std::cout << "直接使用 PI: " << PI << std::endl;
     std::cout << "直接使用 E: " << E << std::endl;
 
+	system("pause");
     return 0;
 }
