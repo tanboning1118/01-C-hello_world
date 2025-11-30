@@ -18,5 +18,8 @@
     <ClCompile Include="hello_world.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="变量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
